@@ -46,7 +46,7 @@ html,
   -o-tab-size: 4;
      tab-size: 4;
   /* 3 */
-  font-family: Roboto, sans-serif;
+  font-family: Poppins, sans-serif;
   /* 4 */
   font-feature-settings: normal;
   /* 5 */
@@ -2628,7 +2628,7 @@ video {
 }
 
 body{
-  background-color: #f6f7f8;
+  background-color: #F6F7F8;
 }
 
 @media (min-width: 640px) {
